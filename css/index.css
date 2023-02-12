@@ -1,14 +1,56 @@
-.jeje{
-    background-color: aquamarine;
-    margin: 2rem 0rem 0rem 19.5rem;
-    width: 25rem;
-    height: 25rem;
+.mg{
+    height: 19rem;
+    display: flex;
+    align-items: center;
+
 }
-.madre{
-    margin: 2rem 2rem 2rem 2rem;
-    height: 60rem;
-    
+/*******************************************/
+.sub{
+    color: darkgoldenrod;
+    font-size: medium;
+    text-align: center;
 }
-span{
-    color: red;
+/********************************************/
+.s1{
+    margin-left: 9rem;
+    color: rgb(1, 1, 59);
 }
+
+.s2{
+    margin-left: 6.6rem;
+    color: rgb(1, 1, 59); 
+}
+/******************************************/
+.padre{
+    height: 15rem;
+    margin-top: 0.5rem;
+
+}
+.padre p{
+    margin-top: 2rem;
+    color: black;
+    font-size: small;
+}
+.padre footer{
+    margin-top: 1rem;
+    color: black;
+    font-size: smaller;
+    margin-left: 14rem;
+}
+/***********************************************/
+button{
+    background: black;
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    position: relative;
+    border-radius: 20px;
+    margin-left: 12rem;
+}
+/*--------------------------*/
+
+/*@media  only screen and (min-width: 1300px) {
+*/
