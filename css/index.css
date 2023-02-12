@@ -52,5 +52,43 @@ button{
 }
 /*--------------------------*/
 
-/*@media  only screen and (min-width: 1300px) {
-*/
+@media  only screen and (min-width: 1300px) {
+    .mg{
+        height: 23rem;
+    }
+    
+    .sub{
+    color: red;
+    font-size: x-large;
+    margin-right: 8rem;
+     }
+/********************************************/
+   .s1{
+    margin-left: 38rem;
+    color: rgb(1, 1, 59);
+    }
+
+.s2{
+    color: rgb(1, 1, 59); 
+}
+/******************************************/
+    .padre{
+      margin-top: 4rem;
+     }
+
+     .padre p{
+      font-size: large;
+      margin-left: 20rem;
+     }
+.padre footer{
+    margin-top: 4rem;
+
+    font-size: larger;
+    margin-left: 55rem;
+}
+/***********************************************/
+button{
+   margin-left: 55rem;
+}
+
+}
